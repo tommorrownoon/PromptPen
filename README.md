@@ -7,4 +7,23 @@ NeuraPen is powered by a rechargeable 3.7V lithium-polymer battery and incorpora
 
 The device can provide quick access to definitions, calculations, factual information, scheduling assistance, and study support without requiring users to navigate between notebooks and multiple applications.
 
+# Why I Created Prompt
+I created Prompt to explore how artificial intelligence and embedded systems can be integrated into everyday objects. While smartphones provide access to information, they can be distracting and require users to stop what they are doing to search for answers. I wanted to design a device that allows people to obtain information quickly and naturally through voice interaction while maintaining focus on their work.
+
 # Bill of Materials
+Item #	Component	Qty	Unit Cost (USD)	Total Cost
+1	ESP32-S3 Development Board	1	$15.00
+2	INMP441 MEMS Microphone	1	$4.00	
+3	0.96" SSD1306 OLED Display	1	$4.50	
+4	3.7V 500mAh LiPo Battery	1	$8.00	
+5	TP4056 USB-C Charging Module	1	$5.00	
+6	Push Button Switch	1	$0.50	
+7	Mini Slide Power Switch	1	$0.50	
+8	Coin Vibration Motor	1	$2.00	
+9	Prototype PCB / Perfboard	1	$3.00	
+10	Silicone Hookup Wire	1 Set	$3.00	
+11	Solder and Flux	1 Set	$5.00	
+12	3D Printed Pen Housing	1	$10.0o
+13	Screws, Standoffs, Hardware	Assorted	$2.00
+
+| | Estimated Total Cost | | | $62.50 |
