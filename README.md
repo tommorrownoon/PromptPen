@@ -7,4 +7,4 @@ NeuraPen is powered by a rechargeable 3.7V lithium-polymer battery and incorpora
 
 The device can provide quick access to definitions, calculations, factual information, scheduling assistance, and study support without requiring users to navigate between notebooks and multiple applications.
 
-#Bill of Materials
+# Bill of Materials
