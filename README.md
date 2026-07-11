@@ -33,7 +33,9 @@ Item #	Component	Qty	Unit Cost (USD)	Total Cost
 10	Silicone Hookup Wire	1 Set	$3.00	
 
 11	Solder and Flux	1 Set	$5.00	
+
 12	3D Printed Pen Housing	1	$10.0o
+
 13	Screws, Standoffs, Hardware	Assorted	$2.00
 
 | | Estimated Total Cost | | | $62.50 |
