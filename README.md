@@ -6,3 +6,5 @@ The device is powered by an ESP32-S3 microcontroller, which serves as the centra
 NeuraPen is powered by a rechargeable 3.7V lithium-polymer battery and incorporates a USB-C charging module for convenient recharging. The compact electronics are housed within a pen-shaped enclosure, emphasizing portability while maintaining functionality. By utilizing smartphone-based processing, the design reduces onboard computational requirements, allowing for a smaller form factor, lower power consumption, and longer battery life.
 
 The device can provide quick access to definitions, calculations, factual information, scheduling assistance, and study support without requiring users to navigate between notebooks and multiple applications.
+
+#Bill of Materials
