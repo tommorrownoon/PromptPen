@@ -12,9 +12,9 @@ I created Prompt to explore how artificial intelligence and embedded systems can
 
 # Bill of Materials
 Item #	Component	Qty	Unit Cost (USD)	Total Cost
-1	ESP32-S3 Development Board	1	$15.00
-2	INMP441 MEMS Microphone	1	$4.00	
-3	0.96" SSD1306 OLED Display	1	$4.50	
+1	 ESP32-S3 Development Board	1	  $15.00
+2	  INMP441 MEMS Microphone	1	 $4.00	
+3	  0.96" SSD1306 OLED Display	 1	$4.50	
 4	3.7V 500mAh LiPo Battery	1	$8.00	
 5	TP4056 USB-C Charging Module	1	$5.00	
 6	Push Button Switch	1	$0.50	
