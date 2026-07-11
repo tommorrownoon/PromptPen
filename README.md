@@ -10,6 +10,31 @@ The device can provide quick access to definitions, calculations, factual inform
 # Why I Created Prompt
 I created Prompt to explore how artificial intelligence and embedded systems can be integrated into everyday objects. While smartphones provide access to information, they can be distracting and require users to stop what they are doing to search for answers. I wanted to design a device that allows people to obtain information quickly and naturally through voice interaction while maintaining focus on their work.
 
+# Components + Their Roles
+
+Major Component Roles
+
+ESP32-S3 Development Board – Main microcontroller that manages Bluetooth communication, audio input, display output, and overall system operation. The 
+ESP32-S3 includes Wi-Fi and Bluetooth Low Energy capabilities, making it suitable for connected embedded devices.
+
+INMP441 Microphone – Captures the user's voice commands.
+
+OLED Display – Displays AI-generated responses, status indicators, and battery information.
+
+LiPo Battery – Provides portable power.
+
+TP4056 Module – Safely charges the battery through USB-C.
+
+Push Button – Starts recording.
+
+Power Switch – Turns the pen on and off.
+
+Vibration Motor – Gives feedback when listening or when a response arrives.
+
+Perfboard & Wiring – Connect and support the electronics.
+
+3D-Printed Housing – Holds all components in a pen-shaped enclosure.
+
 # Bill of Materials
 Item #	Component	Qty	Unit Cost (USD)	Total Cost
 
